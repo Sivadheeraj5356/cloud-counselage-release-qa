@@ -1,0 +1,6 @@
+[
+  {"id":"FE-101","title":"Responsive landing page states","area":"frontend","owner":"Siva","status":"in_progress","due":"2026-10-22","blocks_release":true},
+  {"id":"BE-204","title":"Application review API validation","area":"backend","owner":"Siva","status":"todo","due":"2026-10-20","blocks_release":true},
+  {"id":"API-311","title":"Webhook retry contract tests","area":"api","owner":"QA","status":"done","due":"2026-10-18","blocks_release":false},
+  {"id":"DOC-118","title":"Intern handoff notes","area":"docs","owner":"","status":"todo","due":"2026-10-21","blocks_release":false}
+]
